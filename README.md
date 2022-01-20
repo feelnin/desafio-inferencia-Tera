@@ -1,5 +1,6 @@
 # Infer-ncia-estat-stica-sobre-h-bitos-saud-veis-e-Depress-o
 DESAFIO INFERÊNCIA HÁBITOS SAUDÁVEIS X DEPRESSÃO
+
 Realizei esse desafio durante o bootcamp da Tera em Data Science e Machining Learning. Os bancos de dados são provenintes de uma pesquisa feita nos Estados Unidos chamada "National Health and Nutrition Examination Survey (NHANES)". Nesse sentido, os objetivos principais da análise são: avaliar o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população. Para isso, foi necessário a análise de vieses e da possível causalidade entre hábitos e a doença referendada. Escrever aqui a conclusão da análise
 
 I did this chalenge during the bootcamp of Data Science and Machining Learning at Tera. The datasets outcome from a research in USA called "National Health and Nutrition Examination Survey (NHANES)". In this sense, the main goals of the analyse are: identify individual profile of who has depression depression sympton between 2005-2006 and if healthy habits of eating and physical exercise are joint. For this, it was fundamental the analyse of bias and the likely causuality among habits and the desease endorsed. Write here the conclusion of the analyse
