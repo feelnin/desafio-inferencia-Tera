@@ -7,7 +7,7 @@ Realizei esse desafio durante o bootcamp da Tera em Data Science e Machining Lea
 
 - Sobre os bancos de dados:
   
-  -NHANES:
+ -NHANES:
 
 O National Health and Nutrition Examination Survey (NHANES) é uma pesquisa anual conduzida pelo National Center for Health Statistics (NCHS) do Centro de Controle e Prevenção de Doenças (Centers for Disease Control - CDC) para avaliar a saúde e nutrição de adultos e crianças dos Estados Unidos. Dados coletados incluem questões demográficas, socioeconômicas, dietéticas e relacionadas à saúde, com o componente de exame contendo medidas médicas, odontológicas, fisiológicas e exames laboratoriais.
 
