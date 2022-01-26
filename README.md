@@ -3,7 +3,7 @@ DESAFIO INFERÊNCIA HÁBITOS SAUDÁVEIS X DEPRESSÃO
 
 - Introdução:
 
-Realizei esse desafio durante o bootcamp da Tera em Data Science e Machining Learning. Os bancos de dados são provenintes de uma pesquisa feita nos Estados Unidos chamada "National Health and Nutrition Examination Survey (NHANES)". Nesse sentido, os objetivos principais da análise são: avaliar o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população. Para isso, foi necessário a análise de vieses e da possível causalidade entre hábitos e a doença referendada. Escrever aqui a conclusão da análise
+Realizei esse desafio durante o bootcamp da Tera em Data Science e Machining Learning. Os bancos de dados são provenintes de uma pesquisa feita nos Estados Unidos chamada "National Health and Nutrition Examination Survey (NHANES)". Nesse sentido, os objetivos principais da análise são: avaliar o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população. Para isso, foi necessário a análise de vieses e da possível causalidade entre hábitos e a doença referendada. 
 
 - Sobre os bancos de dados:
   
@@ -34,6 +34,4 @@ O escore total é calculado à partir da soma dos itens 1-9 e varia de 0 a 27, e
 
 O Healthy Eating Index (HEI) é uma medida de qualidade da dieta baseado nas orientações dietéticas do governo federal americano (Dietary Guidelines for Americans). O HEI utiliza diferentes grupos alimentares para o cálculo do escore, variando de 0 a 100, em que maiores valores do escore refletem dietas mais próximas das orientações alimentares em vigor.
 O índice é composto por 13 componentes baseados nos grupos alimentares descritos nas recomendações dietéticas.
-  -Conclusão:
-  
-Não foi possível achar correlação positiva entre práticas de exercício, hábitos alimentares e sintomas de depressão. Dessa forma, pode-se entender que o sedentarismo e os hábitos alimentares não são necessariamente os causadores da depressão, mas podem intensificar seus sintomas. Isso pode ser uma das possíveis interpretações para a regressão linear aplicada que retornou "P" valor menor que 0,05 confirmando a existência de efeito entre exercícios físicos e os sintomas, mas não causalidade. A dificuldade de determinar esse tipo de relação entre essas variáveis mencionadas (PHQ9, PAG_MINW, ADHERENCE, HEI2015_TOTAL_SCORE) procede do tipo de estudo feito pelo NHANES que é observacional. Para uma análise ainda mais assertiva, seria interessante aumentar o tempo de observação para as variáveis, bem como avaliar a incidência da doença na família de cada indivíduo e verificar se as pessoas do estudo são ou foram acompanhadas pro profissionais da saúde mental.
+
