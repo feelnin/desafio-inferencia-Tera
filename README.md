@@ -1,5 +1,4 @@
-# Inferência-Estatistica-Sobre-Hábitos-Saudáveis-e-Depressão
-DESAFIO INFERÊNCIA TERA
+# DESAFIO INFERÊNCIA TERA
 - Introdução:
 
 Realizei esse desafio durante o bootcamp da Tera em Data Science e Machining Learning. Os bancos de dados são provenintes de uma pesquisa feita nos Estados Unidos chamada "National Health and Nutrition Examination Survey (NHANES)". Nesse sentido, os objetivos principais da análise são: avaliar o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006, e se hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população. Para isso, foi necessário a análise de vieses e da possível causalidade entre hábitos e a doença referendada. 
